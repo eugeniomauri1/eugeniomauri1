@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eugeniomauri1
 - 👀 I’m interested in Quantitative Finance
 - 📉 Currently working as Market Risk Analyst
-- 🧬 Formerly working as a PhD student in Computational Biology and Statisitcal Physics
+- 🧬 Formerly working as a PhD student in Computational Biology and Statistical Physics
 - 📫 How to reach me: eugeniomau96@gmail.com
 
 <!---
